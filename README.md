@@ -4,7 +4,7 @@ An intelligent Multiple Choice Question (MCQ) generator that creates specific, d
 📦 Installation
 
 Clone the repository:
-bash git clone https://github.com/yourusername/mcq-generator.git
+bash git clone https://github.com/Mithila-Mane/mcq-generator.git
 cd mcq-generator
 
 Install dependencies:
